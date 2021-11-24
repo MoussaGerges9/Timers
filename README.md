@@ -10,4 +10,6 @@ You can:
 
 🔗 Project video: https://youtu.be/NidkbapYdLk
 
+🔗 Projects list: https://youtube.com/playlist?list=PLkBHRMbynvmjuvuSRVvjh6u2UDlBDp5kd
+
 🔗 Check my channel for more projects: https://www.youtube.com/channel/UCFMJmXtUKtHBeO7LDDvkA3Q
