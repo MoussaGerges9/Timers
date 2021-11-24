@@ -1,0 +1,10 @@
+C:\Users\mouss\source\repos\Timers\Timers\bin\Debug\Timers.exe.config
+C:\Users\mouss\source\repos\Timers\Timers\bin\Debug\Timers.exe
+C:\Users\mouss\source\repos\Timers\Timers\bin\Debug\Timers.pdb
+C:\Users\mouss\source\repos\Timers\Timers\obj\Debug\Timers.csprojAssemblyReference.cache
+C:\Users\mouss\source\repos\Timers\Timers\obj\Debug\Timers.Form1.resources
+C:\Users\mouss\source\repos\Timers\Timers\obj\Debug\Timers.Properties.Resources.resources
+C:\Users\mouss\source\repos\Timers\Timers\obj\Debug\Timers.csproj.GenerateResource.cache
+C:\Users\mouss\source\repos\Timers\Timers\obj\Debug\Timers.csproj.CoreCompileInputs.cache
+C:\Users\mouss\source\repos\Timers\Timers\obj\Debug\Timers.exe
+C:\Users\mouss\source\repos\Timers\Timers\obj\Debug\Timers.pdb
